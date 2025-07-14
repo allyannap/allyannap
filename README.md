@@ -1,16 +1,4 @@
-<table style="border-collapse: collapse; border: none; width: 100%;">
-<td style="border: none; background: transparent; outline: none; vertical-align: top;">
-<tr>
-</td>
-<td style="border: none; background: transparent; outline: none; vertical-align: top;">
-
-<img src="https://github.com/user-attachments/assets/4dc06971-b89f-4f09-bd7b-c51722d74bbe" width="250" style="display: block; margin: auto;" />
-
-</td>
-
-<h3>hiii, i'm allyanna!</h3>
-
-<p>i'm an incoming senior at cornell university working on data science, front-end development, and ui/ux design.</p>
+<img width="21600" height="10800" alt="allyanna" src="https://github.com/user-attachments/assets/b007af2e-8192-4f85-921b-54a0af7e744d" />
 
 🌱 currently...
 <ul>
@@ -19,6 +7,3 @@
   <li>brushing up on my conversational Tagalog</li>
   <li>learning basic graphic design</li>
 </ul>
-
-</tr>
-</table>
