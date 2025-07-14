@@ -8,3 +8,10 @@
   <li>☑️ brushing up on my conversational Tagalog</li>
   <li>✅ learning basic graphic design</li>
 </ul>
+
+💭 ask me about...
+<ul>
+  <li>📚 my favorite fantasy & sci-fi books</li> 
+  <li>🫐 top acai bowl spots</li>
+  <li>🗂 how I organize my life in Notion</li>
+</ul>
