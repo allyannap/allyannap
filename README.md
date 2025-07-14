@@ -2,8 +2,6 @@
 <br>
 <br>
 <h3>🌱 currently...</h3>
-<br>
-<br>
 <ul>
   <li>☑️ creating a personal website</li>
   <li>☑️ building a hospital database</li>
