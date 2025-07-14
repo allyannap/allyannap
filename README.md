@@ -1,5 +1,5 @@
-<img width="21600" height="10800" alt="allyanna" src="https://github.com/user-attachments/assets/b007af2e-8192-4f85-921b-54a0af7e744d" />
-
+<img width="21600" height="10800" alt="allyanna (1)" src="https://github.com/user-attachments/assets/a59bb2cd-bea8-4553-b3c7-8f72e5d52394" />
+<br>
 🌱 currently...
 <ul>
   <li>☑️ creating a personal website</li>
@@ -7,3 +7,4 @@
   <li>☑️ brushing up on my conversational Tagalog</li>
   <li>✅ learning basic graphic design</li>
 </ul>
+<br>
