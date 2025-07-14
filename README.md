@@ -5,5 +5,5 @@
   <li>creating a personal website</li>
   <li>building a hospital database</li>
   <li>brushing up on my conversational Tagalog</li>
-  <li>learning basic graphic design</li>
+  <li>~~learning basic graphic design~~</li>
 </ul>
