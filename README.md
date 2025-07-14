@@ -6,6 +6,12 @@
 
 <p>i'm an incoming senior at cornell university working on data science, front-end development, and ui/ux design.</p>
 
+<div style="flex-shrink: 0;">
+  <img src="https://github.com/user-attachments/assets/4dc06971-b89f-4f09-bd7b-c51722d74bbe" width="250" style="display: block; margin: auto;" />
+</div>
+
+</div>
+
 <p>🌱 currently...</p>
 <ul>
   <li>creating a personal website</li>
@@ -13,11 +19,5 @@
   <li>brushing up on my conversational Tagalog</li>
   <li>learning basic graphic design</li>
 </ul>
-
-</div>
-
-<div style="flex-shrink: 0;">
-  <img src="https://github.com/user-attachments/assets/4dc06971-b89f-4f09-bd7b-c51722d74bbe" width="250" style="display: block; margin: auto;" />
-</div>
 
 </div>
