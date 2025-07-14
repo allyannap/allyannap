@@ -1,18 +1,12 @@
-<div style="display: flex; align-items: flex-start;">
-
-<div style="flex: 1; margin-right: 20px;">
+<table style="border-collapse: collapse; border: none; width: 100%;">
+<tr>
+<td style="border: none; outline: none; vertical-align: top;">
 
 <h3>hiii, i'm allyanna!</h3>
 
 <p>i'm an incoming senior at cornell university working on data science, front-end development, and ui/ux design.</p>
 
-<div style="flex-shrink: 0;">
-  <img src="https://github.com/user-attachments/assets/4dc06971-b89f-4f09-bd7b-c51722d74bbe" width="250" style="display: block; margin: auto;" />
-</div>
-
-</div>
-
-<p>🌱 currently...</p>
+🌱 currently...
 <ul>
   <li>creating a personal website</li>
   <li>building a hospital database</li>
@@ -20,4 +14,11 @@
   <li>learning basic graphic design</li>
 </ul>
 
-</div>
+</td>
+<td style="border: none; outline: none; text-align: center;">
+
+<img src="https://github.com/user-attachments/assets/4dc06971-b89f-4f09-bd7b-c51722d74bbe" width="250" style="display: block; margin: auto;" />
+
+</td>
+</tr>
+</table>
