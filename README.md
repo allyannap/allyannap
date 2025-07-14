@@ -6,14 +6,6 @@
 
 <p>i'm an incoming senior at cornell university working on data science, front-end development, and ui/ux design.</p>
 
-🌱 currently...
-<ul>
-  <li>creating a personal website</li>
-  <li>building a hospital database</li>
-  <li>brushing up on my conversational Tagalog</li>
-  <li>learning basic graphic design</li>
-</ul>
-
 </td>
 
 <td style="border: none; text-align: center;">
@@ -23,5 +15,14 @@
 </td>
 </tr>
 </table>
+
+
+🌱 currently...
+<ul>
+  <li>creating a personal website</li>
+  <li>building a hospital database</li>
+  <li>brushing up on my conversational Tagalog</li>
+  <li>learning basic graphic design</li>
+</ul>
 
 
