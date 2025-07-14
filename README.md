@@ -1,10 +1,10 @@
-<table>
+<table style="border-collapse: collapse; border: none; width: 100%;">
 <tr>
-<td width="60%">
+<td style="border: none; vertical-align: top;">
 
-<h3> 💠 hiii, i'm allyanna!</h3>
+<h3>hiii, i'm allyanna!</h3>
 
-i'm an incoming senior at cornell university working on data science, front-end development, and ui/ux design.
+<p>i'm an incoming senior at cornell university working on data science, front-end development, and ui/ux design.</p>
 
 🌱 currently...
 <ul>
@@ -15,10 +15,13 @@ i'm an incoming senior at cornell university working on data science, front-end 
 </ul>
 
 </td>
-<td width="40%">
 
-<img src="https://github.com/user-attachments/assets/4dc06971-b89f-4f09-bd7b-c51722d74bbe" width="250"/>
+<td style="border: none; text-align: center;">
+
+<img src="https://github.com/user-attachments/assets/4dc06971-b89f-4f09-bd7b-c51722d74bbe" width="250" style="display: block; margin: 0 auto;" />
 
 </td>
 </tr>
 </table>
+
+
