@@ -1,5 +1,5 @@
 <table style="border-collapse: collapse; border: none; width: 100%;">
-<tr>
+<td style="border: none; background: transparent;">
 <td style="border: none; outline: none; vertical-align: top;">
 
 <h3>hiii, i'm allyanna!</h3>
