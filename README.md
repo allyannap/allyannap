@@ -1,6 +1,12 @@
 <table style="border-collapse: collapse; border: none; width: 100%;">
-<td style="border: none; background: transparent;">
-<td style="border: none; outline: none; vertical-align: top;">
+<td style="border: none; background: transparent; outline: none; vertical-align: top;">
+<tr>
+</td>
+<td style="border: none; background: transparent; outline: none; vertical-align: top;">
+
+<img src="https://github.com/user-attachments/assets/4dc06971-b89f-4f09-bd7b-c51722d74bbe" width="250" style="display: block; margin: auto;" />
+
+</td>
 
 <h3>hiii, i'm allyanna!</h3>
 
@@ -14,11 +20,5 @@
   <li>learning basic graphic design</li>
 </ul>
 
-</td>
-<td style="border: none; outline: none; text-align: center;">
-
-<img src="https://github.com/user-attachments/assets/4dc06971-b89f-4f09-bd7b-c51722d74bbe" width="250" style="display: block; margin: auto;" />
-
-</td>
 </tr>
 </table>
