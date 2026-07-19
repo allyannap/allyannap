@@ -1,4 +1,4 @@
-<img width="5184" height="2592" alt="1" src="https://github.com/user-attachments/assets/ab0499c2-fe0a-423c-85cc-8de57d36db54" />" />
+<img width="5184" height="2592" alt="1" src="https://github.com/user-attachments/assets/ab0499c2-fe0a-423c-85cc-8de57d36db54" />
 
 <br>
 <h3>🌱 currently...</h3>
