@@ -1,4 +1,4 @@
-<img width="21600" height="10800" alt="allyanna (2)" src="https://github.com/user-attachments/assets/a1318f7a-4937-4b64-aad1-994b39d5c60e" />
+<img width="21600" height="10800" alt="allyanna (2)" src="<img width="5184" height="2592" alt="1" src="https://github.com/user-attachments/assets/ab0499c2-fe0a-423c-85cc-8de57d36db54" />" />
 
 <br>
 <h3>🌱 currently...</h3>
